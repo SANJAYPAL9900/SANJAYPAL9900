@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Java FullStack Development**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 - 💬 Ask me about **Core Java, JDBC, Servlet, JSP, SQL, Web Technologies**
-- 📫 How to reach me: https://www.linkedin.com/in/sanjay-pal.
+- 📫 How to reach me: https://www.linkedin.com/in/sanjay-pal-555665306/
 - 😄 Pronouns: Collection.
 - ⚡ Fun fact: Plants came before seeds.
 
