@@ -9,8 +9,7 @@
 
 <!-- - 🔭 I’m currently working on Infomaze Elite private LTD... -->
 
-- 🌱 I’m currently learning **Java FullStack Development**
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 🔭 I’m currently working on Infomaze Elite private LTD
 - 💬 Ask me about **Core Java, JDBC, Servlet, JSP, SQL, Web Technologies,hibernate,spring,.NET MVC, C#, LINQ, SQL Server, Razor Pages, JavaScript, jQuery, AJAX, Dapper, AWS S3, SSO, 2FA, Angular**
 - 📫 How to reach me: https://www.linkedin.com/in/sanjay-pal-sp
 - 😄 Pronouns: Collection.
